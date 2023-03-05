@@ -32,4 +32,18 @@ git add 'file'
 git commit -m 'text'
 ```
 
+Добавить удаленный репозиторий 
+```sh
+git remote add origin https://github.com/uxthemeash/my_first_repo.git
+```
+Отправить изменения
+```sh
+git push -u origin main
+```
+
+Добавить удаленный репозиторий 
+```sh
+git pull
+```
+
 
